@@ -1,0 +1,13 @@
+<AdSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CultureDescriptors>
+    <AdCultureDescriptor CultureName="en-US">
+      <Probabilities Probability="16" AdType="AdMob" AppID="a14e5b8669ef367"/>
+      <Probabilities AdType="DefaultHouseAd" AppID="defautAdsAnhQuan.xaml"/>
+    </AdCultureDescriptor>
+    <AdCultureDescriptor CultureName="default">
+      <Probabilities Probability="16" AdType="AdMob" AppID="a14e5b8669ef367"/>
+      <Probabilities Probability="16" AdType="AdDuplex" AppID="2859"/>
+      <Probabilities AdType="DefaultHouseAd" AppID="defautAdsAnhQuan.xaml"/>
+    </AdCultureDescriptor>
+  </CultureDescriptors>
+</AdSettings>
