@@ -3,25 +3,25 @@
 	<CultureDescriptors>
     <AdCultureDescriptor CultureName="en-US">
       <Probabilities Probability="30" AdType="AdDuplex" AppID="2859"/>
-      <Probabilities AppID="c7642834c1198bf87ce8c2d6f2cb5faf" AdType="MobFox" Probability="40" IsTest="false"/>
+      <Probabilities AppID="c7642834c1198bf87ce8c2d6f2cb5faf" AdType="MobFox" Probability="40" IsTest="true"/>
       <Probabilities AppID="DavideCleopadre_ClockAlarmNightLight_WP7" AdType="InnerActive" Probability="30"/>
       <Probabilities Probability="0" AdType="DefaultHouseAd" AppID="http://adrotator.apphb.com/SampleRemoteHouseAd.xaml"/>
     </AdCultureDescriptor>
     <AdCultureDescriptor CultureName="en-GB">
       <Probabilities Probability="30" AdType="AdDuplex" AppID="2859"/>
-      <Probabilities AppID="c7642834c1198bf87ce8c2d6f2cb5faf" AdType="MobFox" Probability="40" IsTest="false"/>
+      <Probabilities AppID="c7642834c1198bf87ce8c2d6f2cb5faf" AdType="MobFox" Probability="40" IsTest="true"/>
       <Probabilities AppID="DavideCleopadre_ClockAlarmNightLight_WP7" AdType="InnerActive" Probability="30"/>
       <Probabilities Probability="0" AdType="DefaultHouseAd" AppID="http://adrotator.apphb.com/SampleRemoteHouseAd.xaml"/>
     </AdCultureDescriptor>
     <AdCultureDescriptor CultureName="de-DE">
       <Probabilities Probability="30" AdType="AdDuplex" AppID="2859"/>
-      <Probabilities AppID="c7642834c1198bf87ce8c2d6f2cb5faf" AdType="MobFox" Probability="40" IsTest="false"/>
+      <Probabilities AppID="c7642834c1198bf87ce8c2d6f2cb5faf" AdType="MobFox" Probability="40" IsTest="true"/>
       <Probabilities AppID="DavideCleopadre_ClockAlarmNightLight_WP7" AdType="InnerActive" Probability="30"/>
       <Probabilities Probability="0" AdType="DefaultHouseAd" AppID="http://adrotator.apphb.com/SampleRemoteHouseAd.xaml"/>
     </AdCultureDescriptor>
 	<AdCultureDescriptor CultureName="default">
       <Probabilities Probability="30" AdType="AdDuplex" AppID="2859"/>
-      <Probabilities AppID="c7642834c1198bf87ce8c2d6f2cb5faf" AdType="MobFox" Probability="40" IsTest="false"/>
+      <Probabilities AppID="c7642834c1198bf87ce8c2d6f2cb5faf" AdType="MobFox" Probability="40" IsTest="true"/>
       <Probabilities AppID="DavideCleopadre_ClockAlarmNightLight_WP7" AdType="InnerActive" Probability="30"/>
       <Probabilities Probability="0" AdType="DefaultHouseAd" AppID="http://adrotator.apphb.com/SampleRemoteHouseAd.xaml"/>
     </AdCultureDescriptor>
