@@ -2,19 +2,19 @@
 <AdSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<CultureDescriptors>
     <AdCultureDescriptor CultureName="en-US">
-      <Probabilities AppID="c7642834c1198bf87ce8c2d6f2cb5faf" AdType="MobFox" Probability="100" IsTest="true"/>
+      <Probabilities AppID="fe96717d9875b9da4339ea5367eff1ec" AdType="MobFox" Probability="100" IsTest="true"/>
       <Probabilities Probability="0" AdType="DefaultHouseAd" AppID="http://adrotator.apphb.com/SampleRemoteHouseAd.xaml"/>
     </AdCultureDescriptor>
     <AdCultureDescriptor CultureName="en-GB">
-      <Probabilities AppID="c7642834c1198bf87ce8c2d6f2cb5faf" AdType="MobFox" Probability="100" IsTest="true"/>
+      <Probabilities AppID="fe96717d9875b9da4339ea5367eff1ec" AdType="MobFox" Probability="100" IsTest="true"/>
       <Probabilities Probability="0" AdType="DefaultHouseAd" AppID="http://adrotator.apphb.com/SampleRemoteHouseAd.xaml"/>
     </AdCultureDescriptor>
     <AdCultureDescriptor CultureName="de-DE">
-      <Probabilities AppID="c7642834c1198bf87ce8c2d6f2cb5faf" AdType="MobFox" Probability="100" IsTest="true"/>
+      <Probabilities AppID="fe96717d9875b9da4339ea5367eff1ec" AdType="MobFox" Probability="100" IsTest="true"/>
       <Probabilities Probability="0" AdType="DefaultHouseAd" AppID="http://adrotator.apphb.com/SampleRemoteHouseAd.xaml"/>
     </AdCultureDescriptor>
 	<AdCultureDescriptor CultureName="default">
-      <Probabilities AppID="c7642834c1198bf87ce8c2d6f2cb5faf" AdType="MobFox" Probability="100" IsTest="true"/>
+      <Probabilities AppID="fe96717d9875b9da4339ea5367eff1ec" AdType="MobFox" Probability="100" IsTest="true"/>
       <Probabilities Probability="0" AdType="DefaultHouseAd" AppID="http://adrotator.apphb.com/SampleRemoteHouseAd.xaml"/>
     </AdCultureDescriptor>
 	</CultureDescriptors>
