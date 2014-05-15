@@ -3,6 +3,7 @@
 	<CultureDescriptors>
     <AdCultureDescriptor CultureName="en-US">
       <Probabilities Probability="70" AdType="AdDuplex" AppID="2859"/>
+      <Probabilities Probability="70" AdType="AdDuplex" AppID="2859"/>
       <Probabilities Probability="30" AdType="DefaultHouseAd" AppID="http://adrotator.apphb.com/SampleRemoteHouseAd.xaml"/>
     </AdCultureDescriptor>
     <AdCultureDescriptor CultureName="en-GB">
