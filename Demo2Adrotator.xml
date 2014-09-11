@@ -8,9 +8,9 @@
 	
 		<title>Ứng Sinh Dòng Tên</title>
 		
-		<atom:link href="http://ungsinhdongten.net/feed/" rel="self" type="application/rss+xml" />
+		<atom:link href="..." rel="self" type="application/rss+xml" />
 			
-		<link>http://ungsinhdongten.net</link>
+		<link>http://...</link>
 		
 		<description> Trang thông tin của Nhà Ứng Sinh Dòng Têntại Việt Nam </description> 
 		
@@ -22,7 +22,7 @@
 		
 		<item>
 			<title>Ngày lễ Đức Mẹ là mẹ Thiên Chúa</title>
-			<link>http://ungsinhdongten.net/kho-khan-doi-khi-la-an-hue/</link>
+			<link>...</link>
 			
 			<comments> comment của Anh Quân </comments> 
 			<pubDate>Thu,11 Sep 2014 10:56:45 +0000</pubDate> 
@@ -31,21 +31,20 @@
 		
 			<guid isPermaLink="false">http://ungsinhdongten.net/?p=6651</guid>
 			<description>mô tả gì đó về thánh lễ này... </description> 
-			<wfw:commentRss>http://ungsinhdongten.net/kho-khan-doi-khi-la-an-hue/feed/</wfw:commentRss> 
+			<wfw:commentRss>...</wfw:commentRss> 
 			<slash:comments>0</slash:comments> 
 		</item> 
 			
 		<item>
 			<title>Lý Tưởng Cuộc Sống</title>
-			<link>	http://ungsinhdongten.net/ly-tuong-cuoc-song/</link>
-			<comments>	http://ungsinhdongten.net/ly-tuong-cuoc-song/#comments </comments> 
+			<link>	</link>
+			<comments> </comments> 
 			<pubDate>Tue, 09 Sep 2014 13:14:58 +0000</pubDate> 
 			<dc:creator>quan trung</dc:creator> 
 			<category><![CDATA[ Nội San ]]> </category> 
 			<guid isPermaLink="false">http://ungsinhdongten.net/?p=6639</guid>
-			<description> <![CDATA[	Trong đời sống của mỗi người chúng ta, ai cũng chọn cho mình một con đường để đi, một lý tưởng sống để định hướng cho cuộc đời mình. Có người chọn địa vị, quyền lực, danh vọng,  tiền [...]
-				]]> </description> 
-			<wfw:commentRss>http://ungsinhdongten.net/ly-tuong-cuoc-song/feed/</wfw:commentRss>
+			<description> <![CDATA[	Trong đờiđịa vị, quy		]]> </description> 
+			<wfw:commentRss>...</wfw:commentRss>
 			<slash:comments>0</slash:comments> 
 		</item>
 	
