@@ -7,6 +7,13 @@
 	<channel>
 	
 		<title>Ứng Sinh Dòng Tên</title>
+		
+		<atom:link href="http://ungsinhdongten.net/feed/" rel="self" type="application/rss+xml" />
+			
+		<link>http://ungsinhdongten.net</link>
+		
+		<description> Trang thông tin của Nhà Ứng Sinh Dòng Têntại Việt Nam </description> 
+		
 		<lastBuildDate>Thu, 11 Sep 2014 10:56:45+0000</lastBuildDate> 
 		<language>vi-VI</language> 
 		<sy:updatePeriod>hourly</sy:updatePeriod>
@@ -14,17 +21,16 @@
 		<generator>http://wordpress.org/?v=3.5.1</generator>
 		
 		<item>
-			<title>KHÓ KHĂN ĐÔI KHI LÀ ÂN HUỆ</title>
+			<title>Ngày lễ Đức Mẹ là mẹ Thiên Chúa</title>
 			<link>http://ungsinhdongten.net/kho-khan-doi-khi-la-an-hue/</link>
 			
-			<comments>http://ungsinhdongten.net/kho-khan-doi-khi-la-an-hue/#comments </comments> 
+			<comments> comment của Anh Quân </comments> 
 			<pubDate>Thu,11 Sep 2014 10:56:45 +0000</pubDate> 
 			<dc:creator>Nguyen Xuan Toa</dc:creator> 
 			<category><![CDATA[ Chia Sẻ ]]> </category> 
 		
 			<guid isPermaLink="false">http://ungsinhdongten.net/?p=6651</guid>
-			<description> <![CDATA[Đời sống của mỗi người thường gắn liền với cả những thuận lợi và khó khăn. Thường thì người ta dễ đón nhận những thuận lợi hơn là những khó khăn bởi lẽ khó khăn thường đem đến cho họ [...]
-				]]> </description> 
+			<description>mô tả gì đó về thánh lễ này... </description> 
 			<wfw:commentRss>http://ungsinhdongten.net/kho-khan-doi-khi-la-an-hue/feed/</wfw:commentRss> 
 			<slash:comments>0</slash:comments> 
 		</item> 
