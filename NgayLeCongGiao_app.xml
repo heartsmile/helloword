@@ -34,19 +34,49 @@
 			<wfw:commentRss>...</wfw:commentRss> 
 			<slash:comments>0</slash:comments> 
 		</item> 
-			
 		<item>
 			<title>Đức Mẹ Mân Côi</title>
 			<link>...</link>
-			<comments>	some comment </comments> 
-			<pubDate>Tue, 09 Sep 2014 13:14:58 +0000</pubDate> 
+			
+			<comments>some comment </comments> 
+			<pubDate>Thu,11 Sep 2014 10:56:45 +0000</pubDate> 
 			<dc:creator>Anh Quan</dc:creator> 
-			<category><![CDATA[ Nội San ]]> </category> 
-			<guid isPermaLink="false">some guid</guid>
+			<category><![CDATA[ Chia Sẻ ]]> </category> 
+		
+			<guid isPermaLink="false">guid gi do</guid>
 			<description> Thứ 3, ngày 7/10/2014. Lễ kính </description> 
-			<wfw:commentRss>...</wfw:commentRss>
+			<wfw:commentRss>...</wfw:commentRss> 
 			<slash:comments>0</slash:comments> 
-		</item>
+		</item> 
+		<item>
+			<title>Thánh Teresa Hài Đồng Giê-su demo</title>
+			<link>...</link>
+			
+			<comments>some comment </comments> 
+			<pubDate>Thu,11 Sep 2014 10:56:45 +0000</pubDate> 
+			<dc:creator>Anh Quan</dc:creator> 
+			<category><![CDATA[ Chia Sẻ ]]> </category> 
+		
+			<guid isPermaLink="false">guid gi do</guid>
+			<description> Thứ 4, ngày 1/10/2014. Lễ nhớ </description> 
+			<wfw:commentRss>...</wfw:commentRss> 
+			<slash:comments>0</slash:comments> 
+		</item> 
+		<item>
+			<title>Đức Mẹ Mân Côi demo</title>
+			<link>...</link>
+			
+			<comments>some comment </comments> 
+			<pubDate>Thu,11 Sep 2014 10:56:45 +0000</pubDate> 
+			<dc:creator>Anh Quan</dc:creator> 
+			<category><![CDATA[ Chia Sẻ ]]> </category> 
+		
+			<guid isPermaLink="false">guid gi do</guid>
+			<description> Thứ 3, ngày 7/10/2014. Lễ kính </description> 
+			<wfw:commentRss>...</wfw:commentRss> 
+			<slash:comments>0</slash:comments> 
+		</item> 
+
 	
 	</channel>
  
