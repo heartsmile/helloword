@@ -1,13 +1,95 @@
-<AdSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <CultureDescriptors>
-    <AdCultureDescriptor CultureName="en-US">
-      <Probabilities Probability="16" AdType="AdMob" AppID="ca-app-pub-4278745466233676/1831720340"/>
-      <Probabilities AdType="DefaultHouseAd" AppID="https://raw.githubusercontent.com/heartsmile/helloword/master/defautAdsAnhQuan.xaml"/>
-    </AdCultureDescriptor>
-    <AdCultureDescriptor CultureName="default">
-      <Probabilities Probability="16" AdType="AdMob" AppID="ca-app-pub-4278745466233676/1831720340"/>
-      <Probabilities Probability="16" AdType="AdDuplex" AppID="2859"/>
-      <Probabilities AdType="DefaultHouseAd" AppID="https://raw.githubusercontent.com/heartsmile/helloword/master/defautAdsAnhQuan.xaml"/>
-    </AdCultureDescriptor>
-  </CultureDescriptors>
-</AdSettings>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+<channel>
+<title>Ứng Sinh Dòng Tên</title>
+<atom:link href="http://ungsinhdongten.net/feed/" rel="self" type="application/rss+xml"/>
+<link>http://ungsinhdongten.net</link>
+<description>
+Trang thông tin của Nhà Ứng Sinh Dòng Tên tại Việt Nam
+</description>
+<lastBuildDate>Thu, 11 Sep 2014 10:56:45 +0000</lastBuildDate>
+<language>vi-VI</language>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<generator>http://wordpress.org/?v=3.5.1</generator>
+<item>
+<title>KHÓ KHĂN ĐÔI KHI LÀ ÂN HUỆ</title>
+<link>
+http://ungsinhdongten.net/kho-khan-doi-khi-la-an-hue/
+</link>
+<comments>
+http://ungsinhdongten.net/kho-khan-doi-khi-la-an-hue/#comments
+</comments>
+<pubDate>Thu, 11 Sep 2014 10:56:45 +0000</pubDate>
+<dc:creator>Nguyen Xuan Toa</dc:creator>
+<category>
+<![CDATA[ Chia Sẻ ]]>
+</category>
+<guid isPermaLink="false">http://ungsinhdongten.net/?p=6651</guid>
+<description>
+<![CDATA[
+Đời sống của mỗi người thường gắn liền với cả những thuận lợi và khó khăn. Thường thì người ta dễ đón nhận những thuận lợi hơn là những khó khăn bởi lẽ khó khăn thường đem đến cho họ [...]
+]]>
+</description>
+<wfw:commentRss>
+http://ungsinhdongten.net/kho-khan-doi-khi-la-an-hue/feed/
+</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>Lý Tưởng Cuộc Sống</title>
+<link>http://ungsinhdongten.net/ly-tuong-cuoc-song/</link>
+<comments>
+http://ungsinhdongten.net/ly-tuong-cuoc-song/#comments
+</comments>
+<pubDate>Tue, 09 Sep 2014 13:14:58 +0000</pubDate>
+<dc:creator>quan trung</dc:creator>
+<category>
+<![CDATA[ Nội San ]]>
+</category>
+<guid isPermaLink="false">http://ungsinhdongten.net/?p=6639</guid>
+<description>
+<![CDATA[
+Trong đời sống của mỗi người chúng ta, ai cũng chọn cho mình một con đường để đi, một lý tưởng sống để định hướng cho cuộc đời mình. Có người chọn địa vị, quyền lực, danh vọng,  tiền [...]
+]]>
+</description>
+<wfw:commentRss>http://ungsinhdongten.net/ly-tuong-cuoc-song/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>Yêu Thương</title>
+<link>http://ungsinhdongten.net/yeu-thuong-2/</link>
+<comments>http://ungsinhdongten.net/yeu-thuong-2/#comments</comments>
+<pubDate>Mon, 08 Sep 2014 08:34:48 +0000</pubDate>
+<dc:creator>quan trung</dc:creator>
+<category>
+<![CDATA[ Nội San ]]>
+</category>
+<guid isPermaLink="false">http://ungsinhdongten.net/?p=6632</guid>
+<description>
+<![CDATA[
+“Yêu thương là sống theo các điều răn của Thiên Chúa. Như anh em đã được nghe từ lúc khởi đầu, điều răn này là: anh em phải sống trong tình thương” (2Ga 1, 6)    Chúa ơi, con [...]
+]]>
+</description>
+<wfw:commentRss>http://ungsinhdongten.net/yeu-thuong-2/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>Bạn Tôi</title>
+<link>http://ungsinhdongten.net/ban-toi/</link>
+<comments>http://ungsinhdongten.net/ban-toi/#comments</comments>
+<pubDate>Sat, 06 Sep 2014 00:54:53 +0000</pubDate>
+<dc:creator>quan trung</dc:creator>
+<category>
+<![CDATA[ Nội San ]]>
+</category>
+<guid isPermaLink="false">http://ungsinhdongten.net/?p=6626</guid>
+<description>
+<![CDATA[
+Người ta nói rằng, sống trên đời, nếu tìm được một người bạn tâm giao thì cuộc sống này thật ý nghĩa. Có nhiều người đã hy sinh nhiều thứ chỉ để có một người bạn thực sự. Nếu [...]
+]]>
+</description>
+<wfw:commentRss>http://ungsinhdongten.net/ban-toi/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+</channel>
+</rss>
