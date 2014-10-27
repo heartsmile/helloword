@@ -1,83 +1,309 @@
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
-	<channel>
-	
-		<title>aq</title>
-		
-		<atom:link href="..." rel="self" type="application/rss+xml" />
-			
-		<link>...</link>
-		
-		<description> video Cong Giao app </description> 
-		
-		<lastBuildDate>Thu, 11 Sep 2014 10:56:45+0000</lastBuildDate> 
-		<language>vi-VI</language> 
-		<sy:updatePeriod>hourly</sy:updatePeriod>
-		<sy:updateFrequency>1</sy:updateFrequency> 
-		<generator>...</generator>
-		
-		<item>
-			<title>Thánh Teresa Hài Đồng Giê-su</title>
-			<link>...</link>
-			
-			<comments>some comment </comments> 
-			<pubDate>Thu,11 Sep 2014 10:56:45 +0000</pubDate> 
-			<dc:creator>Anh Quan</dc:creator> 
-			<category><![CDATA[ Chia Sẻ ]]> </category> 
-		
-			<guid isPermaLink="false">guid gi do</guid>
-			<description> Thứ 4, ngày 1/10/2014. Lễ nhớ </description> 
-			<wfw:commentRss>...</wfw:commentRss> 
-			<slash:comments>0</slash:comments> 
-		</item> 
-		<item>
-			<title>Đức Mẹ Mân Côi</title>
-			<link>...</link>
-			
-			<comments>some comment </comments> 
-			<pubDate>Thu,11 Sep 2014 10:56:45 +0000</pubDate> 
-			<dc:creator>Anh Quan</dc:creator> 
-			<category><![CDATA[ Chia Sẻ ]]> </category> 
-		
-			<guid isPermaLink="false">guid gi do</guid>
-			<description> Thứ 3, ngày 7/10/2014. Lễ kính </description> 
-			<wfw:commentRss>...</wfw:commentRss> 
-			<slash:comments>0</slash:comments> 
-		</item> 
-		<item>
-			<title>Thánh Teresa Hài Đồng Giê-su demo</title>
-			<link>...</link>
-			
-			<comments>some comment </comments> 
-			<pubDate>Thu,11 Sep 2014 10:56:45 +0000</pubDate> 
-			<dc:creator>Anh Quan</dc:creator> 
-			<category><![CDATA[ Chia Sẻ ]]> </category> 
-		
-			<guid isPermaLink="false">guid gi do</guid>
-			<description> Thứ 4, ngày 1/10/2014. Lễ nhớ </description> 
-			<wfw:commentRss>...</wfw:commentRss> 
-			<slash:comments>0</slash:comments> 
-		</item> 
-		<item>
-			<title>Đức Mẹ Mân Côi demo</title>
-			<link>...</link>
-			
-			<comments>some comment </comments> 
-			<pubDate>Thu,11 Sep 2014 10:56:45 +0000</pubDate> 
-			<dc:creator>Anh Quan</dc:creator> 
-			<category><![CDATA[ Chia Sẻ ]]> </category> 
-		
-			<guid isPermaLink="false">guid gi do</guid>
-			<description> Thứ 3, ngày 7/10/2014. Lễ kính </description> 
-			<wfw:commentRss>...</wfw:commentRss> 
-			<slash:comments>0</slash:comments> 
-		</item> 
-
-	
-	</channel>
- 
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+<channel>
+<title>Dòng Tên Việt Nam » Nét Đẹp</title>
+<atom:link href="http://dongten.net/noidung/category/hoc-lam-nguoi/net-dep/feed" rel="self" type="application/rss+xml"/>
+<link>http://dongten.net</link>
+<description>Dòng Chúa Giê-su</description>
+<lastBuildDate>Mon, 27 Oct 2014 03:31:14 +0000</lastBuildDate>
+<language>en-US</language>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<item>
+<title>Ngày Hôm nay…</title>
+<link>http://dongten.net/noidung/42499</link>
+<comments>http://dongten.net/noidung/42499#comments</comments>
+<pubDate>Sun, 26 Oct 2014 04:04:59 +0000</pubDate>
+<dc:creator>
+<![CDATA[ Nguyễn Hiền Nhu ]]>
+</dc:creator>
+<category>
+<![CDATA[ +Học Làm Người ]]>
+</category>
+<category>
+<![CDATA[ Nét Đẹp ]]>
+</category>
+<guid isPermaLink="false">http://dongten.net/?p=42499</guid>
+<description>
+<![CDATA[
+<a class="meta-more" href="http://dongten.net/noidung/42499"></a>
+]]>
+</description>
+<content:encoded>
+<![CDATA[
+<p><a href="http://dongten.net/wp-noidung/uploads/2014/10/nhin-vao-nhung-dieu-tot-dep-trong-cuoc-song.jpg"><img class="alignleft size-medium wp-image-42500" src="http://dongten.net/wp-noidung/uploads/2014/10/nhin-vao-nhung-dieu-tot-dep-trong-cuoc-song-300x225.jpg" alt="nhin-vao-nhung-dieu-tot-dep-tr
+]]>
+<![CDATA[
+ong-cuoc-song" width="300" height="225" /></a><img src="http://petalia.org/Inspiration/n_peta.gif" alt="" width="42" height="44" border="0" />gày hôm nay, tôi sẽ tin rằng mình là người đặc biệt, một người quan trọng. Tôi sẽ yêu quý bản thân tôi với chính những g
+]]>
+<![CDATA[...]]>
+</content:encoded>
+<wfw:commentRss>http://dongten.net/noidung/42499/feed</wfw:commentRss>
+<slash:comments>2</slash:comments>
+</item>
+<item>
+<title>“Hiểu” Mới Biết Ơn…</title>
+<link>http://dongten.net/noidung/42415</link>
+<comments>http://dongten.net/noidung/42415#comments</comments>
+<pubDate>Fri, 24 Oct 2014 07:53:56 +0000</pubDate>
+<dc:creator>
+<![CDATA[ Phạm Ngô Hoàng Dũng ]]>
+</dc:creator>
+<category>
+<![CDATA[ +Học Làm Người ]]>
+</category>
+<category>
+<![CDATA[ Lẽ Sống ]]>
+</category>
+<category>
+<![CDATA[ Nét Đẹp ]]>
+</category>
+<guid isPermaLink="false">http://dongten.net/?p=42415</guid>
+<description>
+<![CDATA[
+<a class="meta-more" href="http://dongten.net/noidung/42415"></a>
+]]>
+</description>
+<content:encoded>
+<![CDATA[...]]>
+</content:encoded>
+<wfw:commentRss>http://dongten.net/noidung/42415/feed</wfw:commentRss>
+<slash:comments>4</slash:comments>
+</item>
+<item>
+<title>Tiếng Mưa Vô Thường…</title>
+<link>http://dongten.net/noidung/42375</link>
+<comments>http://dongten.net/noidung/42375#comments</comments>
+<pubDate>Wed, 22 Oct 2014 09:49:10 +0000</pubDate>
+<dc:creator>
+<![CDATA[ Phạm Ngô Hoàng Dũng ]]>
+</dc:creator>
+<category>
+<![CDATA[ +Học Làm Người ]]>
+</category>
+<category>
+<![CDATA[ Lẽ Sống ]]>
+</category>
+<category>
+<![CDATA[ Nét Đẹp ]]>
+</category>
+<guid isPermaLink="false">http://dongten.net/?p=42375</guid>
+<description>
+<![CDATA[
+<a class="meta-more" href="http://dongten.net/noidung/42375"></a>
+]]>
+</description>
+<content:encoded>
+<![CDATA[
+<p style="text-align: left"><a href="http://dongten.net/wp-noidung/uploads/2014/10/tiengmuavothuong_web.jpg"><img class="aligncenter wp-image-42376" src="http://dongten.net/wp-noidung/uploads/2014/10/tiengmuavothuong_web.jpg" alt="tiengmuavothuong_web" width="600" height="384" /></a><span style="fon
+]]>
+<![CDATA[...]]>
+</content:encoded>
+<wfw:commentRss>http://dongten.net/noidung/42375/feed</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>Nét Đẹp Duyên Dáng…</title>
+<link>http://dongten.net/noidung/42211</link>
+<comments>http://dongten.net/noidung/42211#comments</comments>
+<pubDate>Sat, 18 Oct 2014 23:58:20 +0000</pubDate>
+<dc:creator>
+<![CDATA[ Phạm Ngô Hoàng Dũng ]]>
+</dc:creator>
+<category>
+<![CDATA[ +Học Làm Người ]]>
+</category>
+<category>
+<![CDATA[ Lẽ Sống ]]>
+</category>
+<category>
+<![CDATA[ Nét Đẹp ]]>
+</category>
+<guid isPermaLink="false">http://dongten.net/?p=42211</guid>
+<description>
+<![CDATA[
+<a class="meta-more" href="http://dongten.net/noidung/42211"></a>
+]]>
+</description>
+<content:encoded>
+<![CDATA[
+<p style="text-align: left"><a href="http://dongten.net/wp-noidung/uploads/2014/10/netdepduyendang_web.jpg"><img class="aligncenter wp-image-42212" src="http://dongten.net/wp-noidung/uploads/2014/10/netdepduyendang_web.jpg" alt="netdepduyendang_web" width="600" height="384" /></a></p> <p style="text
+]]>
+<![CDATA[...]]>
+</content:encoded>
+<wfw:commentRss>http://dongten.net/noidung/42211/feed</wfw:commentRss>
+<slash:comments>1</slash:comments>
+</item>
+<item>
+<title>Nội Tâm…</title>
+<link>http://dongten.net/noidung/42064</link>
+<comments>http://dongten.net/noidung/42064#comments</comments>
+<pubDate>Wed, 15 Oct 2014 08:39:51 +0000</pubDate>
+<dc:creator>
+<![CDATA[ Phạm Ngô Hoàng Dũng ]]>
+</dc:creator>
+<category>
+<![CDATA[ +Học Làm Người ]]>
+</category>
+<category>
+<![CDATA[ Lẽ Sống ]]>
+</category>
+<category>
+<![CDATA[ Nét Đẹp ]]>
+</category>
+<guid isPermaLink="false">http://dongten.net/?p=42064</guid>
+<description>
+<![CDATA[
+<a class="meta-more" href="http://dongten.net/noidung/42064"></a>
+]]>
+</description>
+<content:encoded>
+<![CDATA[...]]>
+</content:encoded>
+<wfw:commentRss>http://dongten.net/noidung/42064/feed</wfw:commentRss>
+<slash:comments>6</slash:comments>
+</item>
+<item>
+<title>Nước Mắt Trong…</title>
+<link>http://dongten.net/noidung/41919</link>
+<comments>http://dongten.net/noidung/41919#comments</comments>
+<pubDate>Sat, 11 Oct 2014 09:05:10 +0000</pubDate>
+<dc:creator>
+<![CDATA[ Phạm Ngô Hoàng Dũng ]]>
+</dc:creator>
+<category>
+<![CDATA[ Lẽ Sống ]]>
+</category>
+<category>
+<![CDATA[ Nét Đẹp ]]>
+</category>
+<category>
+<![CDATA[ Uncategorized ]]>
+</category>
+<guid isPermaLink="false">http://dongten.net/?p=41919</guid>
+<description>
+<![CDATA[
+<a class="meta-more" href="http://dongten.net/noidung/41919"></a>
+]]>
+</description>
+<content:encoded>
+<![CDATA[
+<p style="text-align: left"><span style="font-family: tahoma,arial,helvetica,sans-serif;font-size: 12pt"><a href="http://dongten.net/wp-noidung/uploads/2014/10/nuocmatrong_web.jpg"><img class="aligncenter wp-image-41921" src="http://dongten.net/wp-noidung/uploads/2014/10/nuocmatrong_web.jpg" alt="nu
+]]>
+<![CDATA[...]]>
+</content:encoded>
+<wfw:commentRss>http://dongten.net/noidung/41919/feed</wfw:commentRss>
+<slash:comments>3</slash:comments>
+</item>
+<item>
+<title>Cuộc Đời Tôi Đến…</title>
+<link>http://dongten.net/noidung/41803</link>
+<comments>http://dongten.net/noidung/41803#comments</comments>
+<pubDate>Wed, 08 Oct 2014 08:30:44 +0000</pubDate>
+<dc:creator>
+<![CDATA[ Phạm Ngô Hoàng Dũng ]]>
+</dc:creator>
+<category>
+<![CDATA[ Lẽ Sống ]]>
+</category>
+<category>
+<![CDATA[ Nét Đẹp ]]>
+</category>
+<guid isPermaLink="false">http://dongten.net/?p=41803</guid>
+<description>
+<![CDATA[
+<a class="meta-more" href="http://dongten.net/noidung/41803"></a>
+]]>
+</description>
+<content:encoded>
+<![CDATA[...]]>
+</content:encoded>
+<wfw:commentRss>http://dongten.net/noidung/41803/feed</wfw:commentRss>
+<slash:comments>1</slash:comments>
+</item>
+<item>
+<title>Tình Thương và Lý Trí…</title>
+<link>http://dongten.net/noidung/41669</link>
+<comments>http://dongten.net/noidung/41669#comments</comments>
+<pubDate>Sun, 05 Oct 2014 02:29:09 +0000</pubDate>
+<dc:creator>
+<![CDATA[ Phạm Ngô Hoàng Dũng ]]>
+</dc:creator>
+<category>
+<![CDATA[ Lẽ Sống ]]>
+</category>
+<category>
+<![CDATA[ Nét Đẹp ]]>
+</category>
+<guid isPermaLink="false">http://dongten.net/?p=41669</guid>
+<description>
+<![CDATA[
+<a class="meta-more" href="http://dongten.net/noidung/41669"></a>
+]]>
+</description>
+<content:encoded>
+<![CDATA[...]]>
+</content:encoded>
+<wfw:commentRss>http://dongten.net/noidung/41669/feed</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>Dừng Lại…</title>
+<link>http://dongten.net/noidung/41358</link>
+<comments>http://dongten.net/noidung/41358#comments</comments>
+<pubDate>Sun, 28 Sep 2014 00:15:02 +0000</pubDate>
+<dc:creator>
+<![CDATA[ Phạm Ngô Hoàng Dũng ]]>
+</dc:creator>
+<category>
+<![CDATA[ Lẽ Sống ]]>
+</category>
+<category>
+<![CDATA[ Nét Đẹp ]]>
+</category>
+<guid isPermaLink="false">http://dongten.net/?p=41358</guid>
+<description>
+<![CDATA[
+<a class="meta-more" href="http://dongten.net/noidung/41358"></a>
+]]>
+</description>
+<content:encoded>
+<![CDATA[
+<p style="text-align: left"><a href="http://dongten.net/wp-noidung/uploads/2014/09/dunglai_web.jpg"><img class="aligncenter wp-image-41359" src="http://dongten.net/wp-noidung/uploads/2014/09/dunglai_web.jpg" alt="dunglai_web" width="600" height="384" /></a><span style="font-family: tahoma,arial,helv
+]]>
+<![CDATA[...]]>
+</content:encoded>
+<wfw:commentRss>http://dongten.net/noidung/41358/feed</wfw:commentRss>
+<slash:comments>4</slash:comments>
+</item>
+<item>
+<title>Nghiệm Trải Cuộc Đời…</title>
+<link>http://dongten.net/noidung/41249</link>
+<comments>http://dongten.net/noidung/41249#comments</comments>
+<pubDate>Wed, 24 Sep 2014 06:48:13 +0000</pubDate>
+<dc:creator>
+<![CDATA[ Phạm Ngô Hoàng Dũng ]]>
+</dc:creator>
+<category>
+<![CDATA[ Lẽ Sống ]]>
+</category>
+<category>
+<![CDATA[ Nét Đẹp ]]>
+</category>
+<guid isPermaLink="false">http://dongten.net/?p=41249</guid>
+<description>
+<![CDATA[
+<a class="meta-more" href="http://dongten.net/noidung/41249"></a>
+]]>
+</description>
+<content:encoded>
+<![CDATA[...]]>
+</content:encoded>
+<wfw:commentRss>http://dongten.net/noidung/41249/feed</wfw:commentRss>
+<slash:comments>7</slash:comments>
+</item>
+</channel>
 </rss>
+<!--  Dynamic page generated in 1.122 seconds.  -->
+<!--
+ Cached page generated by WP-Super-Cache on 2014-10-27 15:59:16 
+-->
